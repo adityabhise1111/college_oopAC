@@ -19,4 +19,4 @@ int main (){
     
     add(a,b,c);
     
-}caddr_t
+}
